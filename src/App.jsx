@@ -6,7 +6,7 @@ import { getRandomNumber } from "./utils/getRandomNumber";
 import Location from "./components/Location";
 import Loader from "./components/Loader/Loader";
 import ResidentList from "./components/ResidentList/ResidentList";
-import SearchForm from "./components/SearchForm/searchForm";
+import SearchForm from "./components/SearchForm/SearchForm";
 
 //El valor de un input no puede ser ni null ni undefined
 function App() {
