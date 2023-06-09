@@ -30,6 +30,7 @@ const SearchForm = ({ oeMeEstoyEnviando }) => {
       <p style={{ color: "red" }} role="alert">
         {errorSearchLocation}
       </p>
+
       <button type="submit">Search</button>
     </form>
   );
